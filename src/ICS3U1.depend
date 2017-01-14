@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1423681529 source:c:\users\ethan\eecloud\school\school cloud()\ics3u1\programs\startingproject\main.cpp
+	"EthanLib.h"
+
+1423678526 c:\users\ethan\eecloud\school\school cloud()\ics3u1\programs\startingproject\ethanlib.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+
+1424575849 source:c:\users\ethan\documents\ics3u1\startingproject\main.cpp
+	"EthanLib.h"
+
+1424636343 c:\users\ethan\documents\ics3u1\startingproject\ethanlib.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<limits>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	"Ethan.h"
+	"Menu.h"
+	"Age.h"
+
+1424575053 source:c:\users\ethan\documents\ics3u1\startingproject\ethan.cpp
+	"EthanLib.h"
+
+1424440452 c:\users\ethan\documents\ics3u1\startingproject\ethan.h
+
+1424040745 source:c:\users\ethan\desktop\startingproject\ethan.cpp
+	"EthanLib.h"
+
+1424040364 c:\users\ethan\desktop\startingproject\ethanlib.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	"Ethan.h"
+
+1424040709 c:\users\ethan\desktop\startingproject\ethan.h
+
+1424040978 source:c:\users\ethan\desktop\startingproject\main.cpp
+	"EthanLib.h"
+
+1424231221 c:\users\ethan\documents\ics3u1\startingproject\timer.h
+
+1424440635 source:c:\users\ethan\documents\compsci\startingproject\ethan.cpp
+	"EthanLib.h"
+
+1424446586 c:\users\ethan\documents\compsci\startingproject\ethanlib.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	"Ethan.h"
+	"Menu.h"
+	"Age.h"
+
+1424440450 c:\users\ethan\documents\compsci\startingproject\ethan.h
+
+1424446678 source:c:\users\ethan\documents\compsci\startingproject\main.cpp
+	"EthanLib.h"
+
+1424450743 c:\users\ethan\documents\compsci\startingproject\menu.h
+
+1424446571 source:c:\users\ethan\documents\compsci\startingproject\menu.cpp
+	"EthanLib.h"
+
+1424575156 c:\users\ethan\documents\ics3u1\startingproject\menu.h
+
+1424575357 source:c:\users\ethan\documents\ics3u1\startingproject\menu.cpp
+	"EthanLib.h"
+
+1424441427 source:c:\users\ethan\documents\compsci\startingproject\age.cpp
+	"EthanLib.h"
+
+1424440687 c:\users\ethan\documents\compsci\startingproject\age.h
+
+1424637103 c:\users\ethan\documents\ics3u1\startingproject\age.h
+
+1424632370 source:c:\users\ethan\documents\ics3u1\startingproject\age.cpp
+	"EthanLib.h"
+
+1424635397 c:\users\ethan\documents\ics3u1\startingproject\maindialog.h
+	<wx/stattext.h>
+	<wx/dialog.h>
+
+1424575053 source:c:\users\ethan\documents\compsci\src\ethan.cpp
+	"EthanLib.h"
+
+1425267026 c:\users\ethan\documents\compsci\src\ethanlib.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<sstream>
+	<limits>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"Ethan/Ethan.h"
+	"Menu/Menu.h"
+	"Age/Age.h"
+	"OddEven/OddEven.h"
+	"BirthYear/BirthYear.h"
+	"Tickets/Tickets.h"
+
+1424440452 c:\users\ethan\documents\compsci\src\ethan.h
+
+1424575156 c:\users\ethan\documents\compsci\src\menu.h
+
+1425233122 c:\users\ethan\documents\compsci\src\age\age.h
+
+1425259585 source:c:\users\ethan\documents\compsci\src\main.cpp
+	"EthanLib.h"
+
+1424575357 source:c:\users\ethan\documents\compsci\src\menu.cpp
+	"EthanLib.h"
+
+1425265929 source:c:\users\ethan\documents\compsci\src\age\age.cpp
+	"..\EthanLib.h"
+
+1425232722 c:\users\ethan\documents\compsci\src\ethan\ethan.h
+
+1425237742 c:\users\ethan\documents\compsci\src\menu\menu.h
+
+1425232717 source:c:\users\ethan\documents\compsci\src\ethan\ethan.cpp
+	"..\EthanLib.h"
+
+1425264476 source:c:\users\ethan\documents\compsci\src\menu\menu.cpp
+	"..\EthanLib.h"
+
+1425313354 source:c:\users\ethan\documents\compscience\src\age\age.cpp
+	"..\EthanLib.h"
+
+1425310291 c:\users\ethan\documents\compscience\src\ethanlib.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<sstream>
+	<limits>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"Ethan/Ethan.h"
+	"Menu/Menu.h"
+	"Age/Age.h"
+	"OddEven/OddEven.h"
+	"BirthYear/BirthYear.h"
+	"Tickets/Tickets.h"
+
+1425249446 c:\users\ethan\documents\compscience\src\ethan\ethan.h
+
+1425249447 c:\users\ethan\documents\compscience\src\menu\menu.h
+
+1425313359 c:\users\ethan\documents\compscience\src\age\age.h
+
+1425249446 source:c:\users\ethan\documents\compscience\src\ethan\ethan.cpp
+	"..\EthanLib.h"
+
+1425314305 source:c:\users\ethan\documents\compscience\src\main.cpp
+	"EthanLib.h"
+
+1425310291 source:c:\users\ethan\documents\compscience\src\menu\menu.cpp
+	"..\EthanLib.h"
+
+1425239987 c:\users\ethan\documents\compsci\src\oddeven\oddeven.h
+
+1425240753 c:\users\ethan\documents\compsci\src\birthyear\birthyear.h
+
+1425269783 c:\users\ethan\documents\compsci\src\tickets\tickets.h
+
+1425240736 source:c:\users\ethan\documents\compsci\src\birthyear\birthyear.cpp
+
+1425240332 source:c:\users\ethan\documents\compsci\src\oddeven\oddeven.cpp
+	"../EthanLib.h"
+
+1425270516 source:c:\users\ethan\documents\compsci\src\tickets\tickets.cpp
+	"../EthanLib.h"
+
+1425313263 c:\users\ethan\documents\compscience\src\oddeven\oddeven.h
+
+1425313915 c:\users\ethan\documents\compscience\src\birthyear\birthyear.h
+
+1425313212 c:\users\ethan\documents\compscience\src\tickets\tickets.h
+
+1425314150 source:c:\users\ethan\documents\compscience\src\birthyear\birthyear.cpp
+	"../EthanLib.h"
+
+1425313270 source:c:\users\ethan\documents\compscience\src\oddeven\oddeven.cpp
+	"../EthanLib.h"
+
+1425564960 source:c:\users\ethan\documents\compscience\src\tickets\tickets.cpp
+	"../EthanLib.h"
+

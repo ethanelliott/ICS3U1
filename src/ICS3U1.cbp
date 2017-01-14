@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ICS3U1" />
+		<Option platforms="Windows;" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/StartingProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/StartingProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Age/Age.cpp" />
+		<Unit filename="Age/Age.h" />
+		<Unit filename="BirthYear/BirthYear.cpp" />
+		<Unit filename="BirthYear/BirthYear.h" />
+		<Unit filename="EthanLib.h" />
+		<Unit filename="Ethan/Ethan.cpp" />
+		<Unit filename="Ethan/Ethan.h" />
+		<Unit filename="Menu/Menu.cpp" />
+		<Unit filename="Menu/Menu.h" />
+		<Unit filename="OddEven/OddEven.cpp" />
+		<Unit filename="OddEven/OddEven.h" />
+		<Unit filename="Tickets/Tickets.cpp" />
+		<Unit filename="Tickets/Tickets.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<wxsmith version="1">
+				<resources>
+					<wxDialog wxs="wxsmith/NewDialog.wxs" src="NewDialog.cpp" hdr="NewDialog.h" fwddecl="0" i18n="1" name="NewDialog" language="CPP" />
+					<wxDialog wxs="wxsmith/MainDialog.wxs" src="MainDialog.cpp" hdr="MainDialog.h" fwddecl="0" i18n="1" name="MainDialog" language="CPP" />
+					<wxFrame wxs="wxsmith/NewFrame.wxs" src="NewFrame.cpp" hdr="NewFrame.h" fwddecl="0" i18n="1" name="NewFrame" language="CPP" />
+				</resources>
+			</wxsmith>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
